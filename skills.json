@@ -1,4 +1,6 @@
-basic theory
-git bash
-github
-postman
+{
+  "skill_1": "basic theory",
+  "skill_2": "git bash",
+  "skill_3": "github",
+  "skill_4": "postman"
+}
