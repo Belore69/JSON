@@ -1,5 +1,7 @@
-lord of the ring
--
-fried potatoes
-spring
-Republic of Belarus
+{
+  "favorite movie": "lord of the ring",
+  "favorite show": null,
+  "favorite dish": "fried potatoes",
+  "favorite season": "spring",
+  "to visit": "Republic of Belarus"
+}
