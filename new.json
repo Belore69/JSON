@@ -1,4 +1,7 @@
-Merkulov Alexey
-age 30
-0
-20000$+
+{
+  "firstName": "Alexey",
+  "lastName": "Merkulov",
+  "age": 30,
+  "pet": null
+  "preferred salary": 20000$
+}
