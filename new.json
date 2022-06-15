@@ -2,6 +2,6 @@
   "firstName": "Alexey",
   "lastName": "Merkulov",
   "age": 30,
-  "pet": null
+  "pet": null,
   "preferred salary": "20000$"
 }
